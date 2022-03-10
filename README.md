@@ -214,3 +214,4 @@ $ git pull
 Git looks quite complicated, but the following resources will help you be familiar with it shortly:
 * [ProGit](https://git-scm.com/book/en/v2)
 * [Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
+* ![image](https://user-images.githubusercontent.com/11836795/157716808-4ebdae98-4d89-454a-b070-0253dc8aff67.png)
