@@ -1,5 +1,7 @@
 package dev.abarmin.velosiped.task1;
 
+import java.io.IOException;
+
 /**
  * Task 1 - GET some.
  *
